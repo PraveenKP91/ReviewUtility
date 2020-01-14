@@ -1,0 +1,181 @@
+<Batch>
+   <BatchInstanceIdentifier>BI148</BatchInstanceIdentifier>
+   <BatchClassIdentifier>BC21</BatchClassIdentifier>
+   <BatchClassName>Test_Classification47</BatchClassName>
+   <BatchClassDescription>Test_Classification47</BatchClassDescription>
+   <BatchClassVersion>1.0.0.7</BatchClassVersion>
+   <BatchName>BC21_nmishra_2019-09-12_07-45-32</BatchName>
+   <BatchDescription>BC21_nmishra_2019-09-12_07-45-32</BatchDescription>
+   <BatchPriority>10</BatchPriority>
+   <BatchStatus>RUNNING</BatchStatus>
+   <BatchReviewedBy>SYSTEM</BatchReviewedBy>
+   <BatchValidatedBy>SYSTEM</BatchValidatedBy>
+   <BatchCreationDate>2019-09-12 07:58:00.327</BatchCreationDate>
+   <BatchLocalPath>\\PPIDXNAS02.MRN3.COM\PPIDX_System\SharedFolders\ephesoft-system-folder</BatchLocalPath>
+   <BatchSource>Upload Batch</BatchSource>
+   <UNCFolderPath>\\ppidxnas01.mrn3.com\PPIDX_Share\Drop_Folders\Test_Classification47\BC21_nmishra_2019-09-12_07-45-32</UNCFolderPath>
+   <ETextMode>Never</ETextMode>
+   <DocumentClassificationTypes>
+      <DocumentClassificationType>SearchClassification</DocumentClassificationType>
+   </DocumentClassificationTypes>
+   <Documents>
+      <Document>
+         <Identifier>DOC1</Identifier>
+         <Type>Unknown</Type>
+         <Description>Unknown</Description>
+         <Confidence>0.0</Confidence>
+         <ReviewedBy>SYSTEM</ReviewedBy>
+         <ValidatedBy>SYSTEM</ValidatedBy>
+         <ErrorMessage />
+         <DocumentDisplayInfo />
+         <Pages>
+            <Page>
+               <Identifier>PG0</Identifier>
+               <OldFileName>note1-0001-0001.tif</OldFileName>
+               <NewFileName>BI148_0.tif</NewFileName>
+               <SourceFileID>1</SourceFileID>
+               <PageLevelFields>
+                  <PageLevelField>
+                     <Name>Search_Engine_Classification</Name>
+                     <Value />
+                     <Type />
+                     <Confidence>97.0</Confidence>
+                     <OcrConfidenceThreshold>0.0</OcrConfidenceThreshold>
+                     <OcrConfidence>0.0</OcrConfidence>
+                     <FieldOrderNumber>0</FieldOrderNumber>
+                     <ForceReview>false</ForceReview>
+                     <Category>Group 1</Category>
+                     <widgetType>TEXT</widgetType>
+                  </PageLevelField>
+                  <PageLevelField>
+                     <Name>Keyword_Classification</Name>
+                     <Confidence>0.0</Confidence>
+                     <AlternateValues>
+                        <AlternateValue>
+                           <Name>Keyword_Classification</Name>
+                           <Value />
+                           <Confidence>0.0</Confidence>
+                        </AlternateValue>
+                     </AlternateValues>
+                  </PageLevelField>
+               </PageLevelFields>
+               <HocrFileName>BI148_PG0_HOCR.xml</HocrFileName>
+               <ThumbnailFileName>BI148_PG0_displayThumb.png</ThumbnailFileName>
+               <DisplayFileName>BI148_PG0_displayImage.png</DisplayFileName>
+               <OCRInputFileName>BI148_PG0.png</OCRInputFileName>
+               <Direction>NORTH</Direction>
+               <IsRotated>false</IsRotated>
+            </Page>
+            <Page>
+               <Identifier>PG2</Identifier>
+               <OldFileName>note1-0003-0001.tif</OldFileName>
+               <NewFileName>BI148_2.tif</NewFileName>
+               <SourceFileID>1</SourceFileID>
+               <PageLevelFields>
+                  <PageLevelField>
+                     <Name>Search_Engine_Classification</Name>
+                     <Value />
+                     <Type />
+                     <Confidence>97.0</Confidence>
+                     <OcrConfidenceThreshold>0.0</OcrConfidenceThreshold>
+                     <OcrConfidence>0.0</OcrConfidence>
+                     <FieldOrderNumber>0</FieldOrderNumber>
+                     <ForceReview>false</ForceReview>
+                     <Category>Group 1</Category>
+                     <widgetType>TEXT</widgetType>
+                  </PageLevelField>
+                  <PageLevelField>
+                     <Name>Keyword_Classification</Name>
+                     <Confidence>0.0</Confidence>
+                     <AlternateValues>
+                        <AlternateValue>
+                           <Name>Keyword_Classification</Name>
+                           <Value />
+                           <Confidence>0.0</Confidence>
+                        </AlternateValue>
+                     </AlternateValues>
+                  </PageLevelField>
+               </PageLevelFields>
+               <HocrFileName>BI148_PG2_HOCR.xml</HocrFileName>
+               <ThumbnailFileName>BI148_PG2_displayThumb.png</ThumbnailFileName>
+               <DisplayFileName>BI148_PG2_displayImage.png</DisplayFileName>
+               <OCRInputFileName>BI148_PG2.png</OCRInputFileName>
+               <Direction>NORTH</Direction>
+               <IsRotated>false</IsRotated>
+            </Page>
+            <Page>
+               <Identifier>PG1</Identifier>
+               <OldFileName>note1-0002-0001.tif</OldFileName>
+               <NewFileName>BI148_1.tif</NewFileName>
+               <SourceFileID>1</SourceFileID>
+               <PageLevelFields>
+                  <PageLevelField>
+                     <Name>Search_Engine_Classification</Name>
+                     <Value />
+                     <Type />
+                     <Confidence>0.0</Confidence>
+                     <OcrConfidenceThreshold>0.0</OcrConfidenceThreshold>
+                     <OcrConfidence>0.0</OcrConfidence>
+                     <FieldOrderNumber>0</FieldOrderNumber>
+                     <ForceReview>false</ForceReview>
+                     <Category>Group 1</Category>
+                     <widgetType>TEXT</widgetType>
+                  </PageLevelField>
+                  <PageLevelField>
+                     <Name>Keyword_Classification</Name>
+                     <Confidence>0.0</Confidence>
+                     <AlternateValues>
+                        <AlternateValue>
+                           <Name>Keyword_Classification</Name>
+                           <Value />
+                           <Confidence>0.0</Confidence>
+                        </AlternateValue>
+                     </AlternateValues>
+                  </PageLevelField>
+               </PageLevelFields>
+               <HocrFileName>BI148_PG1_HOCR.xml</HocrFileName>
+               <ThumbnailFileName>BI148_PG1_displayThumb.png</ThumbnailFileName>
+               <DisplayFileName>BI148_PG1_displayImage.png</DisplayFileName>
+               <OCRInputFileName>BI148_PG1.png</OCRInputFileName>
+               <Direction>NORTH</Direction>
+               <IsRotated>false</IsRotated>
+            </Page>
+         </Pages>
+      </Document>
+   </Documents>
+   <BatchLevelFields>
+      <BatchLevelField>
+         <Name>JobID</Name>
+         <Value>2</Value>
+         <Type>STRING</Type>
+      </BatchLevelField>
+      <BatchLevelField>
+         <Name>LoanNum</Name>
+         <Value>2</Value>
+         <Type>STRING</Type>
+      </BatchLevelField>
+      <BatchLevelField>
+         <Name>Priority</Name>
+         <Value>2</Value>
+         <Type>STRING</Type>
+      </BatchLevelField>
+      <BatchLevelField>
+         <Name>Timestamp</Name>
+         <Value>2</Value>
+         <Type>STRING</Type>
+      </BatchLevelField>
+      <BatchLevelField>
+         <Name>OriginalImageID</Name>
+         <Value>2</Value>
+         <Type>STRING</Type>
+      </BatchLevelField>
+   </BatchLevelFields>
+   <SourceFiles>
+      <SourceFile>
+         <Id>1</Id>
+         <SourceFileName>note1.pdf</SourceFileName>
+         <SourceFileSize>158.72 KB</SourceFileSize>
+      </SourceFile>
+   </SourceFiles>
+</Batch>
+
